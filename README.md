@@ -251,16 +251,6 @@ I use CTF platforms and vulnerable environments to sharpen practical security sk
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dbimortals&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbimortals&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=dbimortals&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00&sideNums=00FF00&stroke=00FF00" />
 
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Profile...;root%40swarup:~%23+whoami;Offensive+Security+Specialist;Low-Level+OS+Architect;Bug+Bounty+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Profile...;root%40Aryan:~%23+whoami;Offensive+Security+Specialist;Low-Level+OS+Architect;Bug+Bounty+Researcher" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,9 +11,9 @@
 <br>
 
 ```bash
-root@swarup-ingale:~# ./fetch_system_status.sh
+root@Aryan-Singh:~# ./fetch_system_status.sh
 [+] Loading User Profile... SUCCESS
-[+] Target: Swarup Ingale
+[+] Target: Aryan Singh
 [+] Designation: Cybersecurity & IoT Engineering Student (Exp. May 2027)
 [+] Specialty: Low-level OS Architecture, Offensive Security, Reverse Engineering, OSINT
 [+] Current Objective: Seeking a competitive internship to apply advanced 
@@ -37,9 +37,9 @@ root@swarup-ingale:~# ./fetch_system_status.sh
 ### 🐍 Contribution Grid Activity
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Swarup-Ingale/Swarup-Ingale/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-Singh/Aryan-Singh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-Singh/Aryan-Singh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan-Singh/Aryan-Singh/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -83,7 +83,7 @@ root@swarup-ingale:~# ./fetch_system_status.sh
 - 🔹 **Edge AI Smart Traffic System** — An intelligent Edge AI-driven system optimizing flow analysis and hardware efficiency.
 - 🔹 **Autonomous Smart Trolley (IoT)** — Two-unit transmitter/receiver navigation system integrating Arduino microcontrollers with GPS and LoRa modules for retail operations.
 
-👉 **Access full database:** 🔗 [GitHub Repositories](https://github.com/Swarup-Ingale?tab=repositories)
+👉 **Access full database:** 🔗 [GitHub Repositories](https://github.com/Aryan-Singh?tab=repositories)
 
 ---
 
@@ -125,7 +125,7 @@ I also maintain structured learning notes and technical experiments focused on:
 ## 📫 ./network_connections
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swarup-ingale-45864b295"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/Aryan-Singh-45864b295"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
   <a href="https://swale.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF00" alt="Medium" /></a>
   <a href="https://swale-os-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" alt="Portfolio" /></a>
 </p>

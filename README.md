@@ -293,6 +293,8 @@ I use CTF platforms and vulnerable environments to sharpen practical security sk
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
 </a>
 
+<a href="https://quiet-donut-607589.netlify.app"> 
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00FF00" alt="Portfolio" /> </a>
 </p>
 
 ---

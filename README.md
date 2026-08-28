@@ -125,9 +125,8 @@ I also maintain structured learning notes and technical experiments focused on:
 ## 📫 ./network_connections
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Aryan-Singh-45864b295"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
-  <a href="https://swale.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF00" alt="Medium" /></a>
-  <a href="https://swale-os-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aryan-singh-308b072a9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="quiet-donut-607589.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" alt="Portfolio" /></a>
 </p>
 
 <br>

@@ -18,7 +18,7 @@ root@dbimortals:~# ./whoami.sh
 [+] Domain         : Cybersecurity & Blockchain Engineering
 [+] Focus          : Offensive Security | VAPT | IoT Security
 [+] Interests      : Web Security | Systems | Recon | Automation
-[+] Building    : Security Tools | IoT Systems | Compilers
+[+] Building       : Security Tools | IoT Systems | Compilers
 [+] Graduation     : May 2027
 [+] Status         : Learning → Building → Breaking → Securing
 ```
@@ -93,24 +93,6 @@ I prefer learning by **building real systems, testing them, breaking them, and t
 ---
 
 ## `./active_projects`
-
-### 🛡️ SMOLLEY — Autonomous Tactical Logistics Platform
-
-**SMOLLEY** is an indigenous IoT-enabled unmanned ground utility platform designed for tactical logistics.
-
-Current engineering focus:
-
-* Autonomous navigation
-* GPS-denied operation
-* Sensor fusion
-* Obstacle detection
-* Secure communications
-* Asset tracking
-* Ruggedized hardware
-* Mobile command/control interface
-* TRL 3 → TRL 4 development
-
-**Stack:** Arduino | GPS | Bluetooth | Digital Compass | Sensors | Embedded Systems | Mobile Application
 
 ---
 
@@ -247,31 +229,19 @@ I use CTF platforms and vulnerable environments to sharpen practical security sk
       ├── Linux
       └── Low-Level Security
 
-[HackMyVM]
+[TryHackMe]
       │
       ├── Enumeration
       ├── Privilege Escalation
       └── Web Exploitation
 
-[DockerLabs]
-      │
-      └── Vulnerable Infrastructure
-
-[Vulnyx]
-      │
-      └── Practical Pentesting
-
-[dreamhack.io]
-      │
-      └── Web / Binary / CTF Security
 ```
 
 ---
 
 ## `./certifications`
 
-* Cisco Networking Academy — Introduction to Cybersecurity
-* Cisco Networking Academy — Networking Basics
+* Embrizon Technologies — Internship of Cybersecurity
 * Security-focused practical training
 * Web Security & Penetration Testing training
 

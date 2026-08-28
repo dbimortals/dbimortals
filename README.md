@@ -1,135 +1,355 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Profile...;root%40Aryan:~%23+whoami;Offensive+Security+Specialist;Low-Level+OS+Architect;Bug+Bounty+Researcher" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-000000?style=for-the-badge&logo=google-maps&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Status-Seeking%20Internships-000000?style=for-the-badge&logo=hackerone&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Clearance-B.E.%20(Exp.%202027)-000000?style=for-the-badge&logo=gitkraken&logoColor=00FF00" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+dbimortals...;root%40dbimortals%3A~%23+whoami;Cybersecurity+Engineer;Offensive+Security+%7C+IoT+%7C+Systems;Building.+Breaking.+Securing." alt="Typing SVG" />
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=dbimortals&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
 ```bash
-root@Aryan-Singh:~# ./fetch_system_status.sh
-[+] Loading User Profile... SUCCESS
-[+] Target: Aryan Singh
-[+] Designation: Cybersecurity & IoT Engineering Student (Exp. May 2027)
-[+] Specialty: Low-level OS Architecture, Offensive Security, Reverse Engineering, OSINT
-[+] Current Objective: Seeking a competitive internship to apply advanced 
-    reverse engineering, kernel-level programming, and secure system design.
+root@dbimortals:~# ./whoami.sh
+
+[+] Identity       : Aryan Singh
+[+] Handle         : dbimortals
+[+] Domain         : Cybersecurity & Blockchain Engineering
+[+] Focus          : Offensive Security | VAPT | IoT Security
+[+] Interests      : Web Security | Systems | Recon | Automation
+[+] Building    : Security Tools | IoT Systems | Compilers
+[+] Graduation     : May 2027
+[+] Status         : Learning → Building → Breaking → Securing
+```
+
+## `./about_me`
+
+I'm a **Cybersecurity & Blockchain Engineering student** focused on understanding systems from both sides — how they are built and how they can be broken.
+
+My primary interests sit at the intersection of:
+
+* 🔴 Offensive Security & VAPT
+* 🌐 Web & API Security
+* 🔎 Reconnaissance & OSINT
+* 🐛 Bug Bounty Research
+* 📡 IoT & Embedded Security
+* ⚙️ Systems & Low-Level Programming
+* 🤖 Security Automation
+* 🧠 AI-assisted Security Engineering
+* 🔐 Secure System Design
+
+I prefer learning by **building real systems, testing them, breaking them, and then engineering the fixes.**
+
+---
+
+## `./arsenal`
+
+### 💻 Programming & Systems
+
+<p>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00"/>
+</p>
+
+### 🔴 Offensive Security
+
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Caido-000000?style=for-the-badge&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=00FF00"/>
+</p>
+
+### 🔎 Reconnaissance & Analysis
+
+<p>
+<img src="https://img.shields.io/badge/GAU-000000?style=for-the-badge&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Feroxbuster-000000?style=for-the-badge&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/SpiderFoot-000000?style=for-the-badge&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=00FF00"/>
+</p>
+
+### 🐧 Environment
+
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+</p>
+
+---
+
+## `./active_projects`
+
+### 🛡️ SMOLLEY — Autonomous Tactical Logistics Platform
+
+**SMOLLEY** is an indigenous IoT-enabled unmanned ground utility platform designed for tactical logistics.
+
+Current engineering focus:
+
+* Autonomous navigation
+* GPS-denied operation
+* Sensor fusion
+* Obstacle detection
+* Secure communications
+* Asset tracking
+* Ruggedized hardware
+* Mobile command/control interface
+* TRL 3 → TRL 4 development
+
+**Stack:** Arduino | GPS | Bluetooth | Digital Compass | Sensors | Embedded Systems | Mobile Application
+
+---
+
+### 🤖 Project Arsenal — AI Assistant
+
+An Android-based voice assistant designed around a modular execution architecture.
+
+```text
+Voice / Text Input
+       ↓
+     Parser
+       ↓
+     Router
+       ↓
+ Permission Gate
+       ↓
+    Executor
+       ↓
+ Android System
+```
+
+Key areas:
+
+* Android development
+* Speech-to-text
+* Text-to-speech
+* Command parsing
+* Runtime permissions
+* Application control
+* API integration
+* Modular architecture
+
+---
+
+### 🦀 Project Nova — Compiler
+
+A compiler/interpreter project written in **Rust**, focused on understanding language processing and systems programming from the ground up.
+
+Current areas include:
+
+* Lexical analysis
+* Tokenization
+* Parser architecture
+* Compiler pipeline
+* Rust systems programming
+
+---
+
+### 🔐 Project DAC — Decentralized Access Control
+
+A security-focused project exploring decentralized access-control architecture and secure authorization models.
+
+Focus:
+
+* Access control
+* Decentralized architecture
+* Security policies
+* Authorization
+* Blockchain concepts
+
+---
+
+### 🔎 Security Research & Bug Bounty
+
+Hands-on security research involving:
+
+* Web application testing
+* API security
+* Authentication testing
+* Authorization / access control
+* Information disclosure
+* Security misconfiguration
+* Reconnaissance
+* Endpoint discovery
+* Vulnerability validation
+* Responsible disclosure
+
+Tools and platforms explored include:
+
+**Burp Suite · Caido · Nmap · Feroxbuster · GAU · SpiderFoot · CyberChef · Hashcat · John · Hydra · Ghidra · GDB**
+
+---
+
+## `./security_focus`
+
+```text
+                    ┌─────────────────────┐
+                    │    CYBERSECURITY    │
+                    └──────────┬──────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+          ▼                    ▼                    ▼
+     OFFENSIVE              SYSTEMS               IoT
+     SECURITY             SECURITY             SECURITY
+          │                    │                    │
+          ├─ Web/API           ├─ Linux             ├─ Embedded
+          ├─ VAPT              ├─ Rust              ├─ Sensors
+          ├─ Recon             ├─ C/C++             ├─ GPS
+          ├─ Bug Bounty        └─ Low Level         ├─ Communication
+          └─ OSINT                                  └─ Automation
 ```
 
 ---
 
-## 📊 ./telemetry_data (Live Analytics)
+## `./learning_log`
+
+### 🔥 Currently Exploring
+
+* Advanced Web & API Security
+* Server-Side Vulnerabilities
+* Bug Bounty Reconnaissance
+* VAPT Methodology
+* Authentication & Authorization Testing
+* Secure API Design
+* IoT Security
+* Embedded Systems
+* Rust
+* C/C++
+* Linux Internals
+* Security Automation
+* Blockchain Security
+
+---
+
+## `./ctf`
+
+I use CTF platforms and vulnerable environments to sharpen practical security skills.
+
+```text
+[pwn.college]
+      │
+      ├── Binary Exploitation
+      ├── Linux
+      └── Low-Level Security
+
+[HackMyVM]
+      │
+      ├── Enumeration
+      ├── Privilege Escalation
+      └── Web Exploitation
+
+[DockerLabs]
+      │
+      └── Vulnerable Infrastructure
+
+[Vulnyx]
+      │
+      └── Practical Pentesting
+
+[dreamhack.io]
+      │
+      └── Web / Binary / CTF Security
+```
+
+---
+
+## `./certifications`
+
+* Cisco Networking Academy — Introduction to Cybersecurity
+* Cisco Networking Academy — Networking Basics
+* Security-focused practical training
+* Web Security & Penetration Testing training
+
+---
+
+## `./github_stats`
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Current+Streak:+54+Days+🔥;Total+Contributions:+901+;Profile+Status:+Active" alt="Animated Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dbimortals&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbimortals&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" height="180"/>
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-39_Days-00FF00?style=for-the-badge&color=000000&logo=github&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Total_Commits-900+-00FF00?style=for-the-badge&color=000000&logo=git&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Rank-Global_Top_1%25-00FF00?style=for-the-badge&color=000000&logo=hackthebox&logoColor=00FF00" />
-</p>
-
-### 🐍 Contribution Grid Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dbimortals/dbimortals/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dbimortals/dbimortals/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dbimortals/dbimortals/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## 🛠️ ./arsenal.exe
-
-### Core Languages & Systems
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/C%20/%20C++-000000?style=for-the-badge&logo=c&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Assembly_(x86__64)-000000?style=for-the-badge&logo=assembly&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00" />
-</p>
-
-### Exploitation & DevSecOps Tools
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/GDB%20/%20Ghidra-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Docker%20/%20QEMU-000000?style=for-the-badge&logo=docker&logoColor=00FF00" />
-</p>
-
----
-
-## 📂 ./active_processes (Featured Engineering)
-
-### 💻 Systems & Offensive Engineering
-- 🔹 **SUGAR-OS** 🚧 *In Development* — Custom OS engineered entirely from scratch in C/C++ and x86_64, bypassing standard distros to architect core kernel components, process scheduling, and secure memory management.
-- 🔹 **5W413 Vulnerability Scanner** 🚧 *In Development* — A proprietary engine built in JS/TS designed to automate complex threat modeling and detect advanced algorithmic flaws across web architectures.
-- 🔹 **asm-http-server** — A highly optimized, minimal HTTP GET/POST server programmed entirely in x86_64 Linux assembly utilizing syscall-level networking.
-- 🔹 **eBPF Security Monitor** — Achieved deep, kernel-level observability utilizing eBPF for real-time threat tracing and low-overhead network analysis.
-- 🔹 **[Sentinel-X](https://sentinel-x-swale.pages.dev/)** 🟢 *Live* — An advanced platform integrating defensive methodologies to protect against emerging digital threats.
-
-### 🌐 Full-Stack, AI & Hardware
-- 🔹 **[CypherVault](https://cyphervault-swale.pages.dev/)** 🟢 *Live* — A vulnerable-by-design web app featuring 1:1 functional tracking and robust protections against CSRF, SSRF, SSTI, SQLi, and XXE.
-- 🔹 **J.A.R.V.I.S. (AI Assistant)** — A tiered framework leveraging Claude/Antigravity for tasks ranging from complex digital admin to physical robotics orchestration.
-- 🔹 **Edge AI Smart Traffic System** — An intelligent Edge AI-driven system optimizing flow analysis and hardware efficiency.
-- 🔹 **Autonomous Smart Trolley (IoT)** — Two-unit transmitter/receiver navigation system integrating Arduino microcontrollers with GPS and LoRa modules for retail operations.
-
-👉 **Access full database:** 🔗 [GitHub Repositories](https://github.com/Aryan-Singh?tab=repositories)
-
----
-
-## 🏆 ./achievements.log (Global Validations)
-- 🥇 **RedX CTF:** Global Rank 1st – Advanced exploitation under strict time constraints.
-- 🏅 **HackX CTF:** Global Rank 4th – Scored 30,700 points via multi-vector security modeling.
-- 🇮🇳 **Uni6 CTF 1.0:** National Rank 27th – Nationwide competitive validation.
-- 🚩 **Active Competitor:** Redfox CTF 2026, VishwaCTF '26, Kashi CTF, HackZero '26, Dark-CTF 2026.
-- 🧠 **Regular Solver:** pwn.college, HackMyVM, dreamhack.io, pwnable.kr, Olicyber, DockerLabs, Vulnyx.
-
----
-
-## 📘 Learning & Notes
-I also maintain structured learning notes and technical experiments focused on:
-- Web & API Security and Bug Bounty Methodologies
-- Cybersecurity Fundamentals & OWASP Guidelines
-- Custom Security Tools and Automation Scripts
-- Assembly (x86_64) and Low-Level System Security
-
-*(Notes are actively added and updated as Markdown files in my repositories.)*
-
----
-
-## 🏅 Certifications & Badges
-- **Introduction to Cybersecurity** – Cisco Networking Academy (Credly Verified)
-- **Networking Basics** - Cisco Networking Academy (Credly Verified)
-- **Udemy Certifications** – Advanced Cybersecurity & Python
-
----
-
-## 🌱 Currently Learning
-- Advanced Web & API Exploitation (PortSwigger Web Security Academy Labs)
-- Bug Bounty Workflows & Reconnaissance (HackerOne, BugCrowd)
-- Advanced System Security, eBPF Tracing, and Kernel Exploitation
-- Full-Stack integration with IoT Devices
-
----
-
-## 📫 ./network_connections
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-singh-308b072a9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
-  <a href="quiet-donut-607589.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" alt="Portfolio" /></a>
-</p>
-
 <br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dbimortals&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00&sideNums=00FF00&stroke=00FF00" />
+
+</div>
+
+---
+
+## `./contribution_matrix`
+
 <p align="center">
-  ⭐ <i>"Continuously learning, building, and breaking things (ethically)."</i>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dbimortals/dbimortals/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dbimortals/dbimortals/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dbimortals/dbimortals/output/github-contribution-grid-snake.svg">
+</picture>
+
 </p>
+
+---
+
+## `./network`
+
+<p align="center">
+
+<a href="https://github.com/dbimortals">
+<img src="https://img.shields.io/badge/GitHub-d bimortals-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-singh-308b072a9">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
+</a>
+
+</p>
+
+---
+
+```bash
+root@dbimortals:~# cat /etc/motd
+
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│   BUILD SYSTEMS.                                │
+│   BREAK SYSTEMS.                                │
+│   UNDERSTAND SYSTEMS.                           │
+│   SECURE SYSTEMS.                               │
+│                                                  │
+└──────────────────────────────────────────────────┘
+
+root@dbimortals:~# exit
+```
+
+<div align="center">
+
+### ⚡ `dbimortals`
+
+<i>Cybersecurity • Systems • IoT • Research</i>
+
+<br><br>
+
+**"Learn the system. Break the system. Secure the system."**
+
+</div>

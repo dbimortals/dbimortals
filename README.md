@@ -251,7 +251,10 @@ I use CTF platforms and vulnerable environments to sharpen practical security sk
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dbimortals" alt="GitHub Streak" />
+<img
+    src="https://streak-stats.demolab.com/?user=dbimortals&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00&sideNums=00FF00&stroke=00FF00"
+    alt="GitHub Streak"
+  />
 
 </div>
 

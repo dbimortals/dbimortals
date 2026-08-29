@@ -294,10 +294,10 @@ root@dbimortals:~# cat /etc/motd
 
 ┌──────────────────────────────────────────────────┐
 │                                                  │
-│   BUILD SYSTEMS.                                │
-│   BREAK SYSTEMS.                                │
-│   UNDERSTAND SYSTEMS.                           │
-│   SECURE SYSTEMS.                               │
+│   BUILD SYSTEMS.                                 │
+│   BREAK SYSTEMS.                                 │
+│   UNDERSTAND SYSTEMS.                            │
+│   SECURE SYSTEMS.                                │
 │                                                  │
 └──────────────────────────────────────────────────┘
 

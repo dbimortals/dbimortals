@@ -143,7 +143,7 @@ Current areas include:
 
 ### 🔐 Project DAC — Decentralized Access Control
 
-A security-focused project exploring decentralized access-control architecture and secure authorization Models.  //m
+A security-focused project exploring decentralized access-control architecture and secure authorization models.  
 
 Focus:
 

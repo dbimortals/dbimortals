@@ -202,7 +202,7 @@ Tools and platforms explored include:
 
 ### 🔥 Currently Exploring
 
-* Advanced Web & API Securitys
+* Advanced Web & API Security
 * Server-Side Vulnerabilities
 * Bug Bounty Reconnaissance
 * VAPT Methodology
